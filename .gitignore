@@ -11,8 +11,4 @@
 *.out
 *.app
 
-\.vscode/
-
-/include
-
 *.dll
